@@ -52,4 +52,4 @@ sanity-non-functional = []
 soak-non-functional = []
 
 [build-dependencies]
-tonic-build = "0.2"
+tonic-build = "0.3"
