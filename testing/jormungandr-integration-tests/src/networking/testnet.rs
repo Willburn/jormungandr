@@ -300,7 +300,6 @@ pub fn nightly_bootstrap_current() {
     bootstrap_current(TestnetConfig::new_nightly(), "nightly")
 }
 
-#[ignore]
 #[test]
 pub fn nightly_e2e_stake_pool() {
     e2e_stake_pool(TestnetConfig::new_nightly());
